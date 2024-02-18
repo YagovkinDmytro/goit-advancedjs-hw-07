@@ -9,6 +9,8 @@
     "experimentalDecorators": true,
     "lib": ["dom", "ES2021"],
     "module": "es2020",
+    "moduleResolution": "node",
+    "preserveConstEnums": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
     "target": "es2019",
